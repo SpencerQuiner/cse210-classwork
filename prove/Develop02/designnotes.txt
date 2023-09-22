@@ -1,0 +1,22 @@
+five menu options:
+write
+display
+save
+load
+quit
+
+class:
+journal
+    entry
+        date 
+        prompt
+        text
+prompt
+entry list
+
+functions
+    save file
+    load file
+    display file
+    write file
+
