@@ -40,8 +40,6 @@ public class Scripture
         {
             int wordIndex = rand.Next(0, _words.Count);
             _words[wordIndex].Hide();
-
-
         }
     }
     public bool IsCompletelyHidden()
