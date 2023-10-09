@@ -2,6 +2,7 @@ using System;
 
 class Program
 {
+    //I have added a logging feature to the program. Each activity is automatically logged and the user can load that log to view past activity.
     static void Main(string[] args)
     {
         int userSelection = 0;
