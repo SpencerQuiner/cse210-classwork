@@ -1,0 +1,7 @@
+150
+Simple Goal:  Simple goal test;  test test test; 10; True
+Checklist Goal:   checklist goal check;   testing checklist goals; 10; 3; 100; 3
+Checklist Goal:   all checklist goals;   they don't load back in so I need to figure out why; 10; 3; 100; 0
+Checklist Goal:   three checklist goals;   see if the problem is the number of goals; 10; 3; 100; 0
+Simple Goal:  simple test;  test test test; 10; True
+Eternal Goal:  eternal test;  test test; 10
