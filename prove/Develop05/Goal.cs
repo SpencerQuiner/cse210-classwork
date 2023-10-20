@@ -1,5 +1,6 @@
 public abstract class Goal
 {
+    //sub classes SimpleGoal, EternalGoal, ChecklistGoal
     private string _shortName;
     private string _description;
     private int _points;
