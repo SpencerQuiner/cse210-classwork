@@ -14,7 +14,7 @@ class Program
         string packinglabel1 = order1.CreatePackingLabel();
         string shippingLabel1 = order1.CreateShippingLabel();
         Console.Write(packinglabel1);
-        Console.WriteLine();
+        Console.WriteLine("\n");
         Console.Write(shippingLabel1);
 
 
@@ -28,7 +28,7 @@ class Program
         string packinglabel2 = order2.CreatePackingLabel();
         string shippingLabel2 = order2.CreateShippingLabel();
         Console.Write(packinglabel2);
-        Console.WriteLine();
+        Console.WriteLine("\n");
         Console.Write(shippingLabel2);
     }
 }

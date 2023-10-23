@@ -33,9 +33,5 @@ public class Product
         double subtotal = GetQuantity() * GetPrice();
         return subtotal;
     }
-    //public Product CreateProduct(string name, string ID, int quantity, double price)
-    // {
-    // Product product = new Product(name,ID,quantity,price);
-    // return product;
-    // }
+
 }
